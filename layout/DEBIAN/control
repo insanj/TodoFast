@@ -1,0 +1,10 @@
+Package: com.insanj.todofast
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0.1
+Description: Create Appigo Todo tasks from Activator.
+Name: TodoFast
+Depends: mobilesubstrate, libactivator
+Maintainer: insanj <me@insanj.com>
+Author: Julian "insanj" Weiss
